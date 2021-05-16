@@ -1,2 +1,2 @@
 # MVCDependencyInjectionType
- Tipos de Inyección de dependencias Net 5
+ Types of Dependency Injection Net 5
